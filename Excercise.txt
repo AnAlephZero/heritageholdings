@@ -1,0 +1,33 @@
+If you agree, I'd like to go to the 2nd step of the hiring process: coding exercises.
+Let me know if it's ok for you. If yes, here is what you should do.
+
+Your answers and your code will be the base for a possible live interview. In answering the code questions, please submit the code as if you intended to ship it to production. The details matter. Tests are expected, as is well-written, simple idiomatic code.
+
+I'd recommend you use whatever language you feel strongest in. It doesn't have to be one we use - we believe good engineers can be productive in any language.
+
+It would be helpful if you share your code with us using your preferred versioning tool (GitHub, Gitlab, gist, Bitbucket, etc..).
+
+I believe this should take about 4-8 hours to complete, but understand you may have other commitments and time constraints. Please let me know (roughly) when we should expect your answers (e.g. "over the weekend"). Let me know if you need more time.
+
+It may take us 4 to 6 days to review your answers.
+
+Thanks
+
+exercise-1
+
+Write some code that, giving an array of strings, returns the number of occurrences where at least a char is repeated.
+
+example
+
+["a","b","c"] -> 0
+["a","b","cc"] -> 1
+["ABC","deef","hi", "mnmn"] -> 2
+
+
+exercise-2
+
+Write some code that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers.
+
+example
+
+[[1,2,[3]],4] -> [1,2,3,4]
